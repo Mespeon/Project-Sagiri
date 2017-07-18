@@ -1,0 +1,14 @@
+<keys>
+    <facebook>
+        <username></username>
+        <password></password>
+    </facebook>
+    <gmail>
+        <username></username>
+        <password></password>
+    </gmail>
+    <twitter>
+        <username></username>
+        <password></password>
+    </twitter>
+</keys>
