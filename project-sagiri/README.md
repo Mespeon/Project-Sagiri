@@ -5,16 +5,13 @@ PROJECT SAGIRI: A Web Login Automation Program
 all needed modules/libraries are pip3 installed. Expect bugs.
 - For best result, run this in a Linux-based OS.
 
-!!----------------------------------------------!!
-!! THIS IS A WORK IN PROGRESS.                  !!
-!! BUGS AND INCONSISTENCIES ARE TO BE EXPECTED. !!
-!!----------------------------------------------!!
-!! Github repository will be updated if changes !!
-!! are ready to be committed.                   !!
-!! Find me as Mespeon and check repo.           !!
-!!----------------------------------------------!!
 
-!! DO NOT COPY CODES WITHOUT PERMISSION !!
+THIS IS A WORK IN PROGRESS.                  
+BUGS AND INCONSISTENCIES ARE TO BE EXPECTED.
+
+Github repository will be updated if changes
+are ready to be committed.                  
+Find me as Mespeon and check repo.
 
 IMPORTANT NOTES:
 A. Edit key.xml before using the program. This is an XML file that will be read by the program in order
